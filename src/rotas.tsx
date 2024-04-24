@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import Home from './screens/home'
-import Dicas from './screens/dados'
+import Dicas from './screens/dicas'
 
 function Rotas() {
   return (

@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 function Footer() {
   return (
     <footer className={styles.rodape}>
-      <h3>Criado por Ilgner</h3>
+      <h4>Criado por Ilgner &copy;</h4>
     </footer>
   )
 }

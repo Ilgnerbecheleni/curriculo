@@ -1,11 +1,11 @@
 import Banner from '../../components/banner';
-
+import image from '../../assets/logo.png'
 import styles from './styles.module.css';
 
 function Home() {
   return (
     <main className={styles.principal}>
-     <Banner/>
+     <Banner image={image}/>
     <section className={styles.info}>
     <h1>Currículo Fast</h1>
       <p>

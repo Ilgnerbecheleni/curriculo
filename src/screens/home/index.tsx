@@ -1,4 +1,3 @@
-import image from '../../assets/curriculo.jpg'
 import Banner from '../../components/banner';
 
 import styles from './styles.module.css';

@@ -8,7 +8,7 @@ function Navbar() {
       
       <NavLink className={styles.navLink} end  to="/"  ><BsBriefcaseFill  size={28} color='black'/></NavLink>
       <NavLink className={styles.navLink} end  to="/"  >Home</NavLink>
-      <NavLink className={styles.navLink} end to="/dados">Dados</NavLink>
+      <NavLink className={styles.navLink} end to="/dicas">Dicas</NavLink>
     </nav>
   )
 }

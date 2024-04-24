@@ -1,6 +1,6 @@
 
 
-function Dados() {
+function Dicas() {
   return (
     <div>
       <h1>Dados</h1>
@@ -8,4 +8,4 @@ function Dados() {
   )
 }
 
-export default Dados
+export default Dicas

@@ -1,4 +1,4 @@
-import image from '../../assets/erroseacertos-curriculo.png'
+import image from '../../assets/logo.png'
 import styles from './styles.module.css';
 function Banner() {
   return (

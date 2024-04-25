@@ -6,7 +6,7 @@
     font-weight: 500;
     background-color: #f1f1f1;
     padding: 0 0 0 8%;
-    height: 5vh;
+    height: 9vh;
     width: 85vw;
     border-radius: 0px 0px 35px 35px;
     position: fixed;
@@ -22,7 +22,7 @@
 
   [aria-current="page"] {
     
-    color: #4f70db;
+    color:#7ec3f1;
     font-weight: 600;
 }
 
